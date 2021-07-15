@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/myapp/static/css/main.a1dade79.chunk.css",
-    "main.js": "/myapp/static/js/main.e13bc6b0.chunk.js",
-    "main.js.map": "/myapp/static/js/main.e13bc6b0.chunk.js.map",
-    "runtime-main.js": "/myapp/static/js/runtime-main.1cba2fe6.js",
-    "runtime-main.js.map": "/myapp/static/js/runtime-main.1cba2fe6.js.map",
+    "main.css": "/myapp/static/css/main.28acb4e1.chunk.css",
+    "main.js": "/myapp/static/js/main.869a8b9a.chunk.js",
+    "main.js.map": "/myapp/static/js/main.869a8b9a.chunk.js.map",
+    "runtime-main.js": "/myapp/static/js/runtime-main.9bcfffd6.js",
+    "runtime-main.js.map": "/myapp/static/js/runtime-main.9bcfffd6.js.map",
     "static/css/2.2aa38b9c.chunk.css": "/myapp/static/css/2.2aa38b9c.chunk.css",
-    "static/js/2.c4d4d46d.chunk.js": "/myapp/static/js/2.c4d4d46d.chunk.js",
-    "static/js/2.c4d4d46d.chunk.js.map": "/myapp/static/js/2.c4d4d46d.chunk.js.map",
-    "static/js/3.f0027b4b.chunk.js": "/myapp/static/js/3.f0027b4b.chunk.js",
-    "static/js/3.f0027b4b.chunk.js.map": "/myapp/static/js/3.f0027b4b.chunk.js.map",
+    "static/js/2.01c3346c.chunk.js": "/myapp/static/js/2.01c3346c.chunk.js",
+    "static/js/2.01c3346c.chunk.js.map": "/myapp/static/js/2.01c3346c.chunk.js.map",
+    "static/js/3.5173e84d.chunk.js": "/myapp/static/js/3.5173e84d.chunk.js",
+    "static/js/3.5173e84d.chunk.js.map": "/myapp/static/js/3.5173e84d.chunk.js.map",
     "index.html": "/myapp/index.html",
     "static/css/2.2aa38b9c.chunk.css.map": "/myapp/static/css/2.2aa38b9c.chunk.css.map",
-    "static/css/main.a1dade79.chunk.css.map": "/myapp/static/css/main.a1dade79.chunk.css.map",
-    "static/js/2.c4d4d46d.chunk.js.LICENSE.txt": "/myapp/static/js/2.c4d4d46d.chunk.js.LICENSE.txt",
+    "static/css/main.28acb4e1.chunk.css.map": "/myapp/static/css/main.28acb4e1.chunk.css.map",
+    "static/js/2.01c3346c.chunk.js.LICENSE.txt": "/myapp/static/js/2.01c3346c.chunk.js.LICENSE.txt",
     "static/media/book.adbd980c.png": "/myapp/static/media/book.adbd980c.png",
     "static/media/ceo-img.bc4420b7.png": "/myapp/static/media/ceo-img.bc4420b7.png",
     "static/media/graduation-hat.30e38cb2.png": "/myapp/static/media/graduation-hat.30e38cb2.png",
@@ -25,10 +25,10 @@
     "static/media/portfolio-6.8355ff1b.jpg": "/myapp/static/media/portfolio-6.8355ff1b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1cba2fe6.js",
+    "static/js/runtime-main.9bcfffd6.js",
     "static/css/2.2aa38b9c.chunk.css",
-    "static/js/2.c4d4d46d.chunk.js",
-    "static/css/main.a1dade79.chunk.css",
-    "static/js/main.e13bc6b0.chunk.js"
+    "static/js/2.01c3346c.chunk.js",
+    "static/css/main.28acb4e1.chunk.css",
+    "static/js/main.869a8b9a.chunk.js"
   ]
 }
